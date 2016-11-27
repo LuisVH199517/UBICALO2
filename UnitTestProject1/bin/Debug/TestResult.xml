@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="C:\Ubicalo\UBICALO-ken\UnitTestProject1\bin\Debug\UnitTestProject1.dll" total="4" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2016-11-26" time="22:32:42">
+  <environment nunit-version="2.6.4.14350" clr-version="2.0.50727.8745" os-version="Microsoft Windows NT 6.2.9200.0" platform="Win32NT" cwd="C:\Users\luisd\Downloads\NUnit-2.6.4\bin" machine-name="DESKTOP-QBRBS0H" user="luisd" user-domain="DESKTOP-QBRBS0H" />
+  <culture-info current-culture="es-PE" current-uiculture="es-MX" />
+  <test-suite type="Assembly" name="C:\Ubicalo\UBICALO-ken\UnitTestProject1\bin\Debug\UnitTestProject1.dll" executed="True" result="Success" success="True" time="4.501" asserts="0">
+    <results>
+      <test-suite type="Namespace" name="RegistrarAsociadoTest" executed="True" result="Success" success="True" time="4.330" asserts="0">
+        <results>
+          <test-suite type="TestFixture" name="RegistrarAsociadoTest" executed="True" result="Success" success="True" time="4.329" asserts="0">
+            <results>
+              <test-case name="RegistrarAsociadoTest.RegistrarAsociadoTest.FlujoRegistrarAsociado" executed="True" result="Success" success="True" time="4.322" asserts="1" />
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+      <test-suite type="Namespace" name="UnitTestProject1" executed="True" result="Success" success="True" time="0.155" asserts="0">
+        <results>
+          <test-suite type="TestFixture" name="ListarProductos1Test" executed="True" result="Success" success="True" time="0.005" asserts="0">
+            <results>
+              <test-case name="UnitTestProject1.ListarProductos1Test.FlujoListarAsociados" executed="True" result="Success" success="True" time="0.004" asserts="0" />
+            </results>
+          </test-suite>
+          <test-suite type="TestFixture" name="RegistrarEstablecimientoTest" executed="True" result="Success" success="True" time="0.006" asserts="0">
+            <results>
+              <test-case name="UnitTestProject1.RegistrarEstablecimientoTest.FlujoRegistraEstablecimiento" executed="True" result="Success" success="True" time="0.004" asserts="1" />
+            </results>
+          </test-suite>
+          <test-suite type="TestFixture" name="RegistrarProductoTest" executed="True" result="Success" success="True" time="0.136" asserts="0">
+            <results>
+              <test-case name="UnitTestProject1.RegistrarProductoTest.FlujoRegistraProducto" executed="True" result="Success" success="True" time="0.134" asserts="1" />
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>

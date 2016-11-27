@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisualState xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ShowCheckBoxes="false">
+  <TopNode>[0-1008]C:\Ubicalo\UBICALO-ken\UnitTestProject1\bin\Debug\UnitTestProject1.dll</TopNode>
+  <SelectedNode>[0-1008]C:\Ubicalo\UBICALO-ken\UnitTestProject1\bin\Debug\UnitTestProject1.dll</SelectedNode>
+  <ExcludeCategories>false</ExcludeCategories>
+  <Nodes>
+    <Node UniqueName="[0-1008]C:\Ubicalo\UBICALO-ken\UnitTestProject1\bin\Debug\UnitTestProject1.dll" Expanded="true" />
+    <Node UniqueName="[0-1009]RegistrarAsociadoTest" Expanded="true" />
+    <Node UniqueName="[0-1000]RegistrarAsociadoTest.RegistrarAsociadoTest" Expanded="true" />
+    <Node UniqueName="[0-1010]UnitTestProject1" Expanded="true" />
+    <Node UniqueName="[0-1006]UnitTestProject1.ListarProductos1Test" Expanded="true" />
+    <Node UniqueName="[0-1002]UnitTestProject1.RegistrarEstablecimientoTest" Expanded="true" />
+    <Node UniqueName="[0-1004]UnitTestProject1.RegistrarProductoTest" Expanded="true" />
+  </Nodes>
+</VisualState>
